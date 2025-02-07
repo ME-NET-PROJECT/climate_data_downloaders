@@ -1,4 +1,4 @@
-# ADSCAMSDownloader & Sentinel-5P Data Downloader
+# Climate Data Downloaders
 
 ## Overview
 This repository contains scripts for downloading atmospheric composition forecast data from multiple sources:
